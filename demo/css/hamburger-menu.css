@@ -1,0 +1,9 @@
+.menu,
+.hamburger {
+    display: none;
+}
+
+.menu.show,
+.hamburger.show {
+    display: block;
+}
